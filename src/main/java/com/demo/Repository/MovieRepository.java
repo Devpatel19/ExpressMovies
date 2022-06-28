@@ -1,4 +1,4 @@
-package com.practice.Repository;
+package com.demo.Repository;
 
 import java.time.LocalDate;
 import java.util.List;

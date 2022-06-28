@@ -14,7 +14,7 @@ import org.springframework.context.support.AbstractApplicationContext;
 
 import com.demo.DTO.DirectorDTO;
 import com.demo.DTO.MovieDTO;
-import com.practice.Service.MovieService;
+import com.demo.Service.MovieService;
 
 @SpringBootApplication
 public class DemoApplication {

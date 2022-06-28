@@ -1,4 +1,4 @@
-package com.practice.Service;
+package com.demo.Service;
 
 import java.time.LocalDate;
 
@@ -15,8 +15,8 @@ import com.demo.DTO.DirectorDTO;
 import com.demo.DTO.MovieDTO;
 import com.demo.Entity.Director;
 import com.demo.Entity.Movie;
-import com.practice.Repository.DirectorRepository;
-import com.practice.Repository.MovieRepository;
+import com.demo.Repository.DirectorRepository;
+import com.demo.Repository.MovieRepository;
 
 @Service("movieservice")
 @Transactional
